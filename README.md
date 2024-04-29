@@ -1,10 +1,10 @@
 # gn-logger
 
-Multiversx' logger subsystem written in go
+Numbatx' logger subsystem written in go
 
 ## CLI options
 
-### Logs producer (Multiversx Node)
+### Logs producer (Numbatx Node)
 
 - `log-level`: comma-separated pairs of (`loggerName`, `logLevel`)
 - `log-correlation`: option to include correlation elements in the logs
